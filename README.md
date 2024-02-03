@@ -3,7 +3,7 @@ This repo follows [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMake
 
 ## Clone and Enter
 ``` shell
-git clone git@github.com:JinLexuan/30-Days-Make-CPP-Server.git
+git clone git@github.com:jjjllxx/30-Days-Make-CPP-Server.git
 cd 30-Days-Make-CPP-Server
 ```
 
